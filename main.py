@@ -28,7 +28,10 @@ for day in days_input:
         continue
 
 # Add total hrs to dictionary
-hrs_dict["total"] = total_hrs
+if more_hrs == "no":
+    hrs_dict["total"] = hrs_worked
+else:
+    hrs_dict["total"] = total_hrs
 
 # Convert dictionary to a string
 dict_str = ""
