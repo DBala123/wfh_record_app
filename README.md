@@ -1,0 +1,2 @@
+This repository is simple app that asks you which days of the work you have worked at home, then calculates and records the number of hours worked. It also gives a running total of all work from home hours recorded.
+It is a simple and easy way of keeping track of work from home, especially if you set it to run automatically at the end of each week. It becomes useful for caluclating deductions for tax time.
